@@ -1,5 +1,5 @@
 # DEPX Contracts
-Contracts for DEPX.
+Contracts for DEPX (leverage trading platform)
 
 Docs at https://depx.gitbook.io/depx/contracts.
 
