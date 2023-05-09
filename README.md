@@ -1,7 +1,7 @@
-# GMX Contracts
-Contracts for GMX.
+# DEPX Contracts
+Contracts for DEPX.
 
-Docs at https://seleniummoney.gitbook.io/sele/contracts.
+Docs at https://depx.gitbook.io/depx/contracts.
 
 ## Install Dependencies
 If npx is not installed yet:
