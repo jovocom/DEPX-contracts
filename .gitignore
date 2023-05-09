@@ -1,7 +1,7 @@
 node_modules/
 .vscode
 typechain/
-env.json
+.env
 .tmp-addresses*.json
 data/gmxMigration
 data/esGmxDistribution

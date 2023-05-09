@@ -1,4 +1,5 @@
 const { expect, use } = require("chai")
+const ethers = require('ethers');
 const { solidity } = require("ethereum-waffle")
 const { toUsd } = require("../shared/units")
 const { deployContract } = require("../shared/fixtures")

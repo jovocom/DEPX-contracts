@@ -1,3 +1,4 @@
+const ethers = require('ethers');
 function toChainlinkPrice(value) {
   return parseInt(value * Math.pow(10, 8))
 }
